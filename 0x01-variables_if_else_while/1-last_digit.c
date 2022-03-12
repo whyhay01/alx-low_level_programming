@@ -3,9 +3,6 @@
 #include <time.h>
 
 #include <stdio.h>
-
-
-
 /**
  * main - prints the last digit of the random
  *
@@ -13,9 +10,7 @@
  *
  * Return: Always 0 (Success)
  */  
-
 int main(void)
-
 {
 	int n;
 	
@@ -35,5 +30,4 @@ int main(void)
 		printf("and is less than 6 and not 0\n");
 	}							
 	return (0);
-
 }
