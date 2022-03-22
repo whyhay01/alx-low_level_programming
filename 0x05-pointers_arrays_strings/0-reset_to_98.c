@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * reset_to_98 - This function rest the value of an int variable to 98 through its memory address
+ * reset_to_98 - This function rest the value of an intvariable
  *@n: pointer the integer we want to set to 98
  *
  * Return: Nothing
